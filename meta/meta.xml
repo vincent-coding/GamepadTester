@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>GamepadTester</name>
+  <coder>VCoding</coder>
+  <version>0.1a</version>
+  <url>https://github.com/vincent-coding/GamepadTester</url>
+  <release_date>20200504190300</release_date>
+  <short_description>Allows you to test the buttons on your gamepad.</short_description>
+  <long_description>
+    WARNING: This software is an alpha phase!
+    
+    This software was developed entirely in C. By VCoding.
+    A small software developed in c, allowing you to test your WiiU Gamepad.
+  </long_description>
+  <category>poc</category>
+</app>
